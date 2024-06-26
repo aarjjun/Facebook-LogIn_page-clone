@@ -1,0 +1,159 @@
+body{
+    margin: 0%;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.header{
+    background:#3b5998;
+    width: 100%;
+    height: 85px;
+}
+
+.logo{
+
+    width: 50%;
+    padding-top: 33px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+}
+
+.login-control{
+    color: white;
+    font-size: small;
+    margin-left: 161px;
+    margin-top: 10px;
+}
+.forget{
+    font-size: x-small;
+    color: #9cb4d8;
+    text-decoration:none;
+}
+.submit{
+    background: #4267b2;
+    border-color: #29487d;
+    color: white;
+    height: 20px;
+    cursor: pointer;
+}
+.submit:hover{
+    background: rgb(42, 42, 125);
+}
+
+.left-section{
+    width: 40%;
+    float: left;
+    margin-left: 95px;
+    
+}
+.right-section{
+    margin-left: 129px;
+    float: left;
+    height: 100%;
+
+ 
+}
+.main-body{
+    background: linear-gradient(white,#d3d8e8);
+    width: 100%;
+    height: 643px;
+}
+
+.left-para{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 21px;
+  
+}
+
+.image{
+    width: 581px;
+}
+.para{
+    margin-bottom: 23px;
+    margin-top: -7px;
+}
+.fname{
+    width: 50%;
+    height: 30px;
+    float: left;
+}
+.sname{
+    width: 50%;
+    margin-left: 0%;
+    float: left;
+    
+}
+
+.ssn2{
+    width: 195px;
+    margin-left: -97px;
+    height: 35px;
+    border-radius: 6px;
+    border-color: #c1c1c1;
+    border-top-color: #c1c1c1;
+}
+.ssn1{
+    width: 217px;
+    height: 35px;
+    border-radius: 6px;
+    border-color: #c1c1c1;
+    border-top-color: #c1c1c1
+}
+.mob{
+    width: 65%;
+    margin-top: 14px;
+    height: 35px;
+    border-radius: 6px;
+    border-color: #c1c1c1;
+    border-top-color: #c1c1c1;
+}
+.pass{
+    width: 65%;
+    margin-top: 9px;
+    height: 35px;
+    border-radius: 6px;
+    border-color: #c1c1c1;
+    border-top-color: #c1c1c1
+
+}
+.grey{
+    font-size: medium;
+    font-weight: bold;
+    color: #949393;
+}
+.birth-dropdown {
+    
+    margin-right: 5px;
+    height: 35px;
+    border-radius: 6px;
+    border-color: #c1c1c1;
+}
+.qn{
+    width: 3%;
+    margin-top: -10px;
+    padding-left: 4%;
+}
+.button{
+    font-weight: bold;
+    background: #447436;
+    color: white;
+    width: 280px;
+    height: 48px;
+    border-radius: 20px;
+    font-family: math;
+}
+
+
+
+    
